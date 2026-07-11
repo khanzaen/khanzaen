@@ -1,7 +1,9 @@
 # ✨ Hi, I'm Khanza Haura! 🎀
 ### 💻 IT Girl in Tech | Full-Stack Developer & Designer 🌸
 
-![Header Banner](./it_girl_banner.png)
+<p align="center">
+  <img src="./it_girl_banner2.png" alt="Header Banner" width="100%" />
+</p>
 
 <p align="center">
   <a href="mailto:khanza.haura.148@gmail.com"><img src="https://img.shields.io/badge/Email-khanza.haura.148%40gmail.com-FFADAD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
