@@ -2,7 +2,7 @@
 ### 💻 IT Girl in Tech | Full-Stack Developer & Designer 🌸
 
 <p align="center">
-  <img src="./it_girl_banner2.png" alt="Header Banner" width="100%" />
+  <img src="./it_girl_banner.png" alt="Header Banner" width="100%" />
 </p>
 
 <p align="center">
