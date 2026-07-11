@@ -37,21 +37,6 @@
   <img src="https://img.shields.io/badge/Git-BDB2FF?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-FFC6FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanzaen&show_icons=true&theme=rose_pine&hide_border=true&align=center" alt="Khanza's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzaen&layout=compact&theme=rose_pine&hide_border=true&align=center" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanzaen&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 <p align="center">
