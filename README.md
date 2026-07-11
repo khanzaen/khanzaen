@@ -1,16 +1,60 @@
-## Hi there 👋
+# ✨ Hi, I'm Khanza Haura! 🎀
+### 💻 IT Girl in Tech | Full-Stack Developer & Designer 🌸
 
-<!--
-**khanzaen/khanzaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Banner](./it_girl_banner.png)
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:khanza.haura.148@gmail.com"><img src="https://img.shields.io/badge/Email-khanza.haura.148%40gmail.com-FFADAD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/khanzaen"><img src="https://img.shields.io/badge/GitHub-khanzaen-FFC6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/khanzahaura/"><img src="https://img.shields.io/badge/LinkedIn-khanzahaura-A0C4FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/khanza.en"><img src="https://img.shields.io/badge/Instagram-khanza.en-FFD6A5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💫 About Me
+
+> *Just a girl who codes elegant solutions, designs aesthetic interfaces, and loves building functional web applications! ☕✨*
+
+- 🔭 **Current Focus**: Designing and developing aesthetic, user-centric web applications using React and Node.js.
+- 🌱 **Currently Learning**: Advanced frontend frameworks (like Next.js), interactive UI animations, and design prototyping in Figma.
+- 👯 **Open to Collaborate**: Creative frontend challenges, open-source projects, and UI design systems.
+- ⚡ **Fun Fact**: I believe clean code is just as important as a beautiful user interface! 🌸✨
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-FFADAD?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-FFD6A5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-FDFFB6?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-CAFFBF?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  
+  <!-- Backend & Tools -->
+  <img src="https://img.shields.io/badge/Node.js-90dbf4?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-A0C4FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-BDB2FF?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-FFC6FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khanzaen&show_icons=true&theme=rose_pine&hide_border=true&align=center" alt="Khanza's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzaen&layout=compact&theme=rose_pine&hide_border=true&align=center" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanzaen&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>"She believed she could, so she coded." 🌸✨</i>
+</p>
