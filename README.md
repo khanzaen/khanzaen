@@ -1,5 +1,5 @@
 # ✨ Hi, I'm Khanza Haura! 🎀
-### 💻 IT Girl in Tech | Full-Stack Developer & Designer 🌸
+### 💻 IT Girl in Tech | Full-Stack Developer🌸
 
 <p align="center">
   <img src="./it_girl_banner.png" alt="Header Banner" width="100%" />
