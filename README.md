@@ -33,7 +33,17 @@
   <img src="https://img.shields.io/badge/CSS3-FFD6A5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-FDFFB6?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-  <!-- Backend & Tools -->
+  <!-- Backend & Frameworks -->
+  <img src="https://img.shields.io/badge/PHP-CAFFBF?style=for-the-badge&logo=php&logoColor=black" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-90dbf4?style=for-the-badge&logo=laravel&logoColor=black" alt="Laravel" />
+  <img src="https://img.shields.io/badge/CodeIgniter_4-A0C4FF?style=for-the-badge&logo=codeigniter&logoColor=black" alt="CodeIgniter 4" />
+
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/MySQL-BDB2FF?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-FFC6FF?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-FFD6A5?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-BDB2FF?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-FFC6FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
