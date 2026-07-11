@@ -30,11 +30,8 @@
   <img src="https://img.shields.io/badge/HTML5-FFADAD?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-FFD6A5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-FDFFB6?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-CAFFBF?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  
+
   <!-- Backend & Tools -->
-  <img src="https://img.shields.io/badge/Node.js-90dbf4?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-A0C4FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-BDB2FF?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-FFC6FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
