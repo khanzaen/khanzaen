@@ -109,16 +109,6 @@ Full-Stack & Mobile Developer specializing in building end-to-end digital soluti
 
 ---
 
-### 💼 Engineering Experience
-
-- **Lead Software Engineer** @ **CuitBox Studio** *(2024 – Present)*
-  - Designed standalone desktop software architecture utilizing Electron and React.
-  - Built direct hardware-software communication drivers for camera triggers and automated photo printing pipelines.
-- **Full Stack Developer Intern** @ **YABAPI** *(2024)*
-  - Developed full-stack web modules, implemented RESTful API endpoints, and optimized SQL database schemas.
-
----
-
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
