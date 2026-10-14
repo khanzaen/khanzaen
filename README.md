@@ -1,26 +1,30 @@
 <div align="center">
 
   <h1>Khanza Haura</h1>
-  <p><b>Full-Stack Software Developer</b></p>
+  <p><b>Full Stack & Mobile Developer</b></p>
+  <p><i>Asia e University • CCIT Fakultas Teknik Universitas Indonesia</i></p>
 
   <!-- Dynamic Typing SVG -->
-  <a href="https://github.com/khanzaen">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;PHP+%E2%80%A2+Laravel+%E2%80%A2+CodeIgniter;JavaScript+%E2%80%A2+MySQL+%E2%80%A2+REST+APIs;Building+Robust+%26+Scalable+Web+Applications" alt="Typing SVG" />
+  <a href="https://khanza-dev.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+%26+Mobile+Developer;Flutter+%E2%80%A2+Next.js+%E2%80%A2+React+%E2%80%A2+Laravel;Cross-Platform+Mobile+Development;Founder+%26+Project+Lead+%40+CuitBox+Studio" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social & Contact Badges -->
+  <!-- Social & Profile Links -->
+  <a href="https://khanza-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-khanza--dev.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:khanza.haura.148@gmail.com">
     <img src="https://img.shields.io/badge/Email-khanza.haura.148%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/khanzahaura/">
+  <a href="https://www.linkedin.com/in/khanzahaura/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-khanzahaura-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/khanzaen">
+  <a href="https://github.com/khanzaen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-khanzaen-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/khanza.en">
+  <a href="https://instagram.com/khanza.en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-khanza.en-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
@@ -30,64 +34,118 @@
 
 ### 📌 About Me
 
-- 🔭 **Current Focus:** Developing scalable web applications and RESTful APIs using **PHP**, **Laravel**, and **CodeIgniter 4**.
-- 💼 **Specialization:** Full-Stack web architecture, database schema design, and responsive user interfaces.
-- 🌱 **Continuous Learning:** Exploring modern frontend ecosystems, performance optimization, and clean software design patterns.
-- 💬 **Ask Me About:** PHP, Laravel, MVC Architecture, MySQL, and Web Application Security.
-- 📫 **Reach Me At:** [khanza.haura.148@gmail.com](mailto:khanza.haura.148@gmail.com)
+I am a **Full Stack & Mobile Developer** with an Information Technology foundation, specializing in cross-platform mobile app development (**Flutter**), modern web architectures, and system integration.
+
+- 🔭 **Current Work:** Building cross-platform mobile applications with **Flutter** and scalable web platforms.
+- 🚀 **Key Ventures:** Founder & Project Lead at **CuitBox Studio** (interactive event photobooth technology).
+- 🏆 **Achievement:** 1st Place CCIT Venture Batch #1 (Manggala Team Award & Product Incubation).
+- 🎓 **Education:**
+  - **B.I.C.T (Bachelor of Information and Communication Technology)** — Asia e University, Malaysia (2024 – Present)
+  - **Information Technology (Full Stack Developer Track)** — CCIT FTUI, Universitas Indonesia (2024 – 2026)
+- 💬 **Core Interests:** Distributed systems, clean architecture, RESTful API design, and hardware-to-software integration.
+- 🌐 **Live Portfolio:** [khanza-dev.vercel.app](https://khanza-dev.vercel.app/)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Technical Skills
 
 <table width="100%">
   <tr>
-    <td width="20%"><b>Frontend</b></td>
+    <td width="22%"><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
     </td>
   </tr>
   <tr>
-    <td><b>Database & Cloud</b></td>
+    <td><b>Frameworks & Mobile</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=google-cloud&logoColor=white" alt="RESTful APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Supabase_DB-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase DB" />
     </td>
   </tr>
   <tr>
-    <td><b>Tools & Workflow</b></td>
+    <td><b>DevOps & Tools</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     </td>
   </tr>
 </table>
 
 ---
 
+### 🚀 Featured Engineering Projects
+
+| Project | Description | Core Stack |
+| :--- | :--- | :--- |
+| **MOLITAV 3.0** | Real-time mobile healthcare application for monitoring vital signs with trend graphing and automated medical reporting. | `Flutter` `Supabase` `Laravel` |
+| **CuitBox Studio** | Standalone interactive photobooth automation system managing hardware triggers, live capture workflows, and instant print pipelines. | `Electron` `React` `Node.js` |
+| **MOLITAV Admin Panel** | Web-based healthcare management dashboard and patient monitoring console designed for clinical staff and administrators. | `Laravel` `MySQL` `REST APIs` |
+| **Stock Summit UI** | Dynamic financial conference web platform providing real-time scheduling, attendee announcements, and speaker profiles. | `Laravel` `Bootstrap` `MySQL` |
+
+> 🔗 *Detailed architecture breakdowns and demos are available on [khanza-dev.vercel.app/#projects](https://khanza-dev.vercel.app/#projects).*
+
+---
+
+### 💼 Experience & Leadership
+
+- **Founder & Project Lead** @ **CuitBox Studio** *(2024 – Present)*
+  - Spearheaded software architecture using desktop technologies (Electron, React).
+  - Designed automated hardware-software integration for live event deployment.
+- **Full Stack Developer Intern** @ **YABAPI** *(2024)*
+  - Developed full-stack features, integrated backend REST APIs, and managed database schemas.
+- **Chief Operating Officer** @ **Stock Summit UI** *(2023 – 2024)*
+  - Supervised digital platform readiness, real-time attendee communication, and event operations.
+
+---
+
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
+
+  <!-- Contribution Heatmap Grid -->
+  <a href="https://github.com/khanzaen">
+    <img src="https://ghchart.rshah.org/2ea44f/khanzaen" alt="Khanza's GitHub Contribution Calendar" width="100%" />
+  </a>
+
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td>
-        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=khanzaen&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=khanzaen&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
         <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzaen&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -100,18 +158,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Enterprise Web Application** | Production-ready web platform with authentication, role-based access control (RBAC), and interactive dashboard. | `Laravel` `MySQL` `Bootstrap` | [Repository](https://github.com/khanzaen) |
-| **Backend RESTful API Service** | Scalable API service implementing structured MVC patterns, query optimization, and token authentication. | `CodeIgniter 4` `PHP` `MySQL` | [Repository](https://github.com/khanzaen) |
-| **Responsive Web Portal** | Modern responsive interface focused on high performance, clean semantics, and cross-browser compatibility. | `JavaScript` `HTML5` `CSS3` | [Repository](https://github.com/khanzaen) |
-
-> 💡 *Note: Tautan dan nama proyek dapat diperbarui sesuai repositori yang ingin Anda unggulkan.*
-
----
-
 <div align="center">
-  <sub>Designed & Developed by <b>Khanza Haura</b> • Open for collaboration and software engineering opportunities</sub>
+  <sub>Designed & Developed by <b>Khanza Haura</b> • Explore full portfolio at <a href="https://khanza-dev.vercel.app/">khanza-dev.vercel.app</a></sub>
 </div>
