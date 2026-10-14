@@ -1,49 +1,41 @@
 <div align="center">
 
   <h1>Khanza Haura</h1>
-  <p><b>Full Stack & Mobile Developer</b></p>
-  <p><i>Asia e University • CCIT Fakultas Teknik Universitas Indonesia</i></p>
+  <p><b>Full Stack & Mobile Software Developer</b></p>
 
   <!-- Dynamic Typing SVG -->
   <a href="https://khanza-dev.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+%26+Mobile+Developer;Flutter+%E2%80%A2+Next.js+%E2%80%A2+React+%E2%80%A2+Laravel;Cross-Platform+Mobile+Development;Founder+%26+Project+Lead+%40+CuitBox+Studio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+%26+Mobile+Developer;Flutter+%E2%80%A2+Next.js+%E2%80%A2+React+%E2%80%A2+Laravel;PostgreSQL+%E2%80%A2+MySQL+%E2%80%A2+Supabase+%E2%80%A2+REST+APIs;Clean+Architecture+%26+System+Integration" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social & Profile Links -->
+  <!-- Developer Links -->
   <a href="https://khanza-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-khanza--dev.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:khanza.haura.148@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khanza.haura.148%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/khanzahaura/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-khanzahaura-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/khanzaen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-khanzaen-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/khanza.en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-khanza.en-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/khanzahaura/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-khanzahaura-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:khanza.haura.148@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khanza.haura.148%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 </div>
 
 ---
 
-### 📌 About Me
+### 💻 Technical Overview
 
-I am a **Full Stack & Mobile Developer** with an Information Technology foundation, specializing in cross-platform mobile app development (**Flutter**), modern web architectures, and system integration.
+Full-Stack & Mobile Developer specializing in building end-to-end digital solutions, from cross-platform mobile apps to scalable cloud backends and responsive web platforms.
 
-- 🔭 **Current Work:** Building cross-platform mobile applications with **Flutter** and scalable web platforms.
-- 🚀 **Key Ventures:** Founder & Project Lead at **CuitBox Studio** (interactive event photobooth technology).
-- 🏆 **Achievement:** 1st Place CCIT Venture Batch #1 (Manggala Team Award & Product Incubation).
-- 🎓 **Education:**
-  - **B.I.C.T (Bachelor of Information and Communication Technology)** — Asia e University, Malaysia (2024 – Present)
-  - **Information Technology (Full Stack Developer Track)** — CCIT FTUI, Universitas Indonesia (2024 – 2026)
-- 💬 **Core Interests:** Distributed systems, clean architecture, RESTful API design, and hardware-to-software integration.
-- 🌐 **Live Portfolio:** [khanza-dev.vercel.app](https://khanza-dev.vercel.app/)
+- 📱 **Mobile Engineering:** Building cross-platform applications with **Flutter** & **Dart**, handling state management, hardware sensor integration, and real-time data sync.
+- 🌐 **Web & Full-Stack:** Developing modern web platforms using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
+- ⚙️ **Backend & APIs:** Designing RESTful services and MVC architectures with **Laravel**, **PHP**, and **Node.js**.
+- 🗄️ **Database & Cloud:** Database schema optimization, query tuning, and migrations across **PostgreSQL**, **MySQL**, **MongoDB**, and **Supabase**.
 
 ---
 
@@ -62,11 +54,11 @@ I am a **Full Stack & Mobile Developer** with an Information Technology foundati
     </td>
   </tr>
   <tr>
-    <td><b>Frameworks & Mobile</b></td>
+    <td><b>Frontend & Mobile</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -108,26 +100,22 @@ I am a **Full Stack & Mobile Developer** with an Information Technology foundati
 
 ### 🚀 Featured Engineering Projects
 
-| Project | Description | Core Stack |
+| Project | Technical Overview | Architecture & Stack |
 | :--- | :--- | :--- |
-| **MOLITAV 3.0** | Real-time mobile healthcare application for monitoring vital signs with trend graphing and automated medical reporting. | `Flutter` `Supabase` `Laravel` |
-| **CuitBox Studio** | Standalone interactive photobooth automation system managing hardware triggers, live capture workflows, and instant print pipelines. | `Electron` `React` `Node.js` |
-| **MOLITAV Admin Panel** | Web-based healthcare management dashboard and patient monitoring console designed for clinical staff and administrators. | `Laravel` `MySQL` `REST APIs` |
-| **Stock Summit UI** | Dynamic financial conference web platform providing real-time scheduling, attendee announcements, and speaker profiles. | `Laravel` `Bootstrap` `MySQL` |
-
-> 🔗 *Detailed architecture breakdowns and demos are available on [khanza-dev.vercel.app/#projects](https://khanza-dev.vercel.app/#projects).*
+| **MOLITAV 3.0** | Real-time healthcare mobile application streaming vital signs data, trend visualization, and automated medical report generation. | `Flutter` `Supabase` `Laravel` `REST APIs` |
+| **CuitBox Studio** | Standalone event automation system orchestrating hardware triggers, camera feeds, live capture workflows, and instant print processing. | `Electron` `React` `Node.js` `Desktop` |
+| **MOLITAV Admin Panel** | Clinical management dashboard and monitoring console built for healthcare data administration and patient record tracking. | `Laravel` `MySQL` `Bootstrap` `REST APIs` |
+| **Stock Summit Platform** | Conference web system featuring real-time schedule management, dynamic attendee updates, and relational speaker database. | `Laravel` `MySQL` `Bootstrap` |
 
 ---
 
-### 💼 Experience & Leadership
+### 💼 Engineering Experience
 
-- **Founder & Project Lead** @ **CuitBox Studio** *(2024 – Present)*
-  - Spearheaded software architecture using desktop technologies (Electron, React).
-  - Designed automated hardware-software integration for live event deployment.
+- **Lead Software Engineer** @ **CuitBox Studio** *(2024 – Present)*
+  - Designed standalone desktop software architecture utilizing Electron and React.
+  - Built direct hardware-software communication drivers for camera triggers and automated photo printing pipelines.
 - **Full Stack Developer Intern** @ **YABAPI** *(2024)*
-  - Developed full-stack features, integrated backend REST APIs, and managed database schemas.
-- **Chief Operating Officer** @ **Stock Summit UI** *(2023 – 2024)*
-  - Supervised digital platform readiness, real-time attendee communication, and event operations.
+  - Developed full-stack web modules, implemented RESTful API endpoints, and optimized SQL database schemas.
 
 ---
 
@@ -159,5 +147,5 @@ I am a **Full Stack & Mobile Developer** with an Information Technology foundati
 ---
 
 <div align="center">
-  <sub>Designed & Developed by <b>Khanza Haura</b> • Explore full portfolio at <a href="https://khanza-dev.vercel.app/">khanza-dev.vercel.app</a></sub>
+  <sub>Full portfolio & system architecture breakdowns at <a href="https://khanza-dev.vercel.app/">khanza-dev.vercel.app</a></sub>
 </div>
